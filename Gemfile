@@ -5,6 +5,10 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'bcrypt-ruby', '3.0.1'
+#gem 'forem', :github => "radar/forem", :branch => "rails4"
+#gem 'friendly_id', github: "FriendlyId/friendly_id"
+#gem 'cancan', git: "https://github.com/nukturnal/cancan.git"
+#gem 'kaminari', '0.14.1'
 
 group :development, :test do
   gem 'sqlite3', '1.3.7'
